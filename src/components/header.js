@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Header = (title, content) => {
+const Header = (title) => {
     return (
         <div className="header">
             <h1>Bottega Mad Libs</h1>
