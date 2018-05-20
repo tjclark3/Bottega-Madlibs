@@ -6,8 +6,8 @@ class Card extends Component {
     render() {
         return (
             <div className="card">
-                { Input('Name') }
-                { Input('Field Position') }
+                { Input('Color') }
+                { Input('Plural Noun') }
             </div>
 
         )
